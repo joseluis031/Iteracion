@@ -1,11 +1,8 @@
 # Iteracion
 Trabajo realizado por José Luis Rodríguez y Claudia Lozano.
 Dirección de Github: [](https://github.com/joseluis031/Iteracion.git)
+
 Ejercicio 6: Historial de una cuenta corriente
-
-
-
-
 
 Se quiere conservar el historial de los movimientos mensuales en una cuenta corriente.
 
@@ -23,6 +20,8 @@ Una tabla clientes contiene las cuentas corrientes de un conjunto de clientes.
 
 El ejercicio siguiente se resolverá por completo en el capítulo «Edición de un número».
 
+
+
 Ejercicio 7: Edición de un número entero
 
 1. Escribir un algoritmo iterativo que transforme un número entero n cualquiera en su representación en una base B ≥ 2 cualquiera.
@@ -31,40 +30,14 @@ Cuando la base es superior a 36, se puede utilizar la representación de los nú
 
 Este ejercicio está completamente resuelto en el capítulo «Edición de un número». 
 
+
+
 Ejercicio 8: Análisis de una cadena de caracteres
-
-
-
-
 
 Sea una cadena de caracteres con distintas partes separadas por un carácter SEPARADOR específico. El ejemplo que aparece aquí debajo representa una cadena de este tipo, donde el carácter separador es dos puntos ’:’.
 
 Este es un:ejemplo : de cadena a analizar: 
 Se quieren separar las distintas partes y situarlas en una tabla de cadenas de caracteres. Para el ejemplo que aparece antes, se quiere obtener la tabla siguiente:
-
-n.°
-
-Cadena
-
-1
-
-’Este es un’
-
-2
-
-’ejemplo ’
-
-3
-
-’ de cadena para analizar’
-
-
-
-
-
-
-
-
 
 
 
@@ -76,20 +49,11 @@ Se trata de construir una tabla que da todos los campos obtenidos asociados al i
 
 Puede encontrar este ejercicio resuelto y la solución analizada en los elementos disponibles para descargar desde la página Información.
 
+
+
 Ejercicio 9: Búsqueda de palabras en un diccionario
 
-
-
-
-
 Sea una tabla de PALABRAS en español. Las palabras se guardan en una tabla llamada diccionario. Se utilizan otras dos tablas para recorrer el diccionario. Para cada palabra, una tabla llamada siguiente da el número de la celda ocupada por la palabra que le sigue en orden alfabético en el diccionario. La tabla anterior también da, para cada palabra, el número de la celda del diccionario que contiene la palabra anterior en orden alfabético. A la primera palabra de la lista ordenada le corresponde un número de celda del anterior igual a índice_min(diccionario) - 1. Igualmente, a la última palabra de la lista ordenada le corresponde un número de celda de la siguiente igual al mismo valor. La tabla que aparece debajo muestra un ejemplo de estas tres tablas.
-
-
-
-
-
-
-
 
 
 
@@ -109,15 +73,12 @@ También es posible definir un tipo nuevo de datos, PALABRA, formado con una cad
 
 Puede encontrar este ejercicio resuelto y la solución analizada en los elementos disponibles para descargar desde la página Información.
 
+
+
 Ejercicio 10: Representar los miembros de una familia
-
-
-
-
 
 Se ha formado una tabla familias con 1000 componentes numerados desde 1. Cada componente contiene un dato de tipo PERSONA según el siguiente diagrama:
 
-images/06DP08.png
 La asociación reflexiva en la entidad PERSONA, designada en el diagrama por «es el hijo de», significa que una instancia de PERSONA es hija (hijo) de ninguna, de una o de dos instancias de PERSONA.
 
 1. Definir el tipo PERSONA. ¿Cómo declarar la tabla familias?
@@ -136,11 +97,9 @@ Cuando una persona registrada en la tabla no tiene padre o madre registrado, el 
 
 Puede encontrar la solución de este ejercicio en los complementos disponibles para descargar desde la página Información.
 
+
+
 Ejercicio 11: mcd de dos números enteros
-
-
-
-
 
 El algoritmo que permite determinar el máximo común divisor de dos números enteros también se estudia en el capítulo «Recursividad», durante el estudio del tipoFRACCIÓN. 
 
@@ -150,11 +109,10 @@ El algoritmo que permite determinar el máximo común divisor de dos números en
 
 Puede encontrar una solución completa de este ejercicio en los complementos disponibles para descargar desde la página Información.
 
+
+
+
 Ejercicio 12: Cuadrados perfectos y raíz cuadrada entera
-
-
-
-
 
 Un número entero natural es un cuadrado perfecto si es el cuadrado de un número entero. Así, 0 = 02, 1 = 12, 4 = 22, 16 = 42 son cuadrados perfectos.
 
