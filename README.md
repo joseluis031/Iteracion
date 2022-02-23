@@ -8,7 +8,7 @@ Dirección de Github: [GitHub](https://github.com/joseluis031/Iteracion.git)
 3. [Ejercicio 8](#id3)
 4. [Ejercicio 9](#id4)
 5. [Ejercicio 10](#id5)
-6. [Ejercicio 11(#id6)
+6. [Ejercicio 11](#id6)
 7. [Ejercicio 12](#id7)
 
 
