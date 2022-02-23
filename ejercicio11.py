@@ -1,3 +1,5 @@
 #definimos la variable del máximo común divisor de euclides.
 
-def mcd.euclides (x,y):
+x= input("Introduce el valor del divisor: ")
+y= input("Introduce el valor del divisor: ")
+mcd_euclides = x/y
