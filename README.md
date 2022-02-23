@@ -22,7 +22,7 @@ El ejercicio siguiente se resolverá por completo en el capítulo «Edición de 
 
 
 
-Ejercicio 7: Edición de un número entero
+## Ejercicio 7: Edición de un número entero
 
 1. Escribir un algoritmo iterativo que transforme un número entero n cualquiera en su representación en una base B ≥ 2 cualquiera.
 
@@ -32,7 +32,7 @@ Este ejercicio está completamente resuelto en el capítulo «Edición de un nú
 
 
 
-Ejercicio 8: Análisis de una cadena de caracteres
+## Ejercicio 8: Análisis de una cadena de caracteres
 
 Sea una cadena de caracteres con distintas partes separadas por un carácter SEPARADOR específico. El ejemplo que aparece aquí debajo representa una cadena de este tipo, donde el carácter separador es dos puntos ’:’.
 
@@ -51,7 +51,7 @@ Puede encontrar este ejercicio resuelto y la solución analizada en los elemento
 
 
 
-Ejercicio 9: Búsqueda de palabras en un diccionario
+## Ejercicio 9: Búsqueda de palabras en un diccionario
 
 Sea una tabla de PALABRAS en español. Las palabras se guardan en una tabla llamada diccionario. Se utilizan otras dos tablas para recorrer el diccionario. Para cada palabra, una tabla llamada siguiente da el número de la celda ocupada por la palabra que le sigue en orden alfabético en el diccionario. La tabla anterior también da, para cada palabra, el número de la celda del diccionario que contiene la palabra anterior en orden alfabético. A la primera palabra de la lista ordenada le corresponde un número de celda del anterior igual a índice_min(diccionario) - 1. Igualmente, a la última palabra de la lista ordenada le corresponde un número de celda de la siguiente igual al mismo valor. La tabla que aparece debajo muestra un ejemplo de estas tres tablas.
 
@@ -75,7 +75,7 @@ Puede encontrar este ejercicio resuelto y la solución analizada en los elemento
 
 
 
-Ejercicio 10: Representar los miembros de una familia
+## Ejercicio 10: Representar los miembros de una familia
 
 Se ha formado una tabla familias con 1000 componentes numerados desde 1. Cada componente contiene un dato de tipo PERSONA según el siguiente diagrama:
 
@@ -99,7 +99,7 @@ Puede encontrar la solución de este ejercicio en los complementos disponibles p
 
 
 
-Ejercicio 11: mcd de dos números enteros
+## Ejercicio 11: mcd de dos números enteros
 
 El algoritmo que permite determinar el máximo común divisor de dos números enteros también se estudia en el capítulo «Recursividad», durante el estudio del tipoFRACCIÓN. 
 
@@ -112,7 +112,7 @@ Puede encontrar una solución completa de este ejercicio en los complementos dis
 
 
 
-Ejercicio 12: Cuadrados perfectos y raíz cuadrada entera
+## Ejercicio 12: Cuadrados perfectos y raíz cuadrada entera
 
 Un número entero natural es un cuadrado perfecto si es el cuadrado de un número entero. Así, 0 = 02, 1 = 12, 4 = 22, 16 = 42 son cuadrados perfectos.
 

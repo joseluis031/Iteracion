@@ -32,3 +32,4 @@ if sum(operaciones) > suma:
   print("La media de los importes de los movimientos es superior al mínimo establecido")
 else:
   print("La media de los importes de los movimientos es inferior al mínimo establecido")
+
