@@ -2,7 +2,17 @@
 Trabajo realizado por José Luis Rodríguez y Claudia Lozano.
 Dirección de Github: [GitHub](https://github.com/joseluis031/Iteracion.git)
 
-## Ejercicio 6: Historial de una cuenta corriente
+
+1. [Ejercicio 6](#id1)
+2. [Ejercicio 7](#id2)
+3. [Ejercicio 8](#id3)
+4. [Ejercicio 9](#id4)
+5. [Ejercicio 10](#id5)
+6. [Ejercicio 11(#id6)
+7. [Ejercicio 12](#id7)
+
+
+## Ejercicio 6: Historial de una cuenta corriente <a name="id1"></a>
 
 El código que hemos empleado en el ejercicio 6 es el que mostramos a continuación:
 
@@ -42,7 +52,7 @@ else:
   print("La media de los importes de los movimientos es inferior al mínimo establecido")
   ```
 
-## Ejercicio 7: Edición de un número entero
+## Ejercicio 7: Edición de un número entero <a name="id2"></a>
 
 El código que hemos empleado en el ejercicio 7 es el que mostramos a continuación:
 
@@ -64,7 +74,7 @@ edit(numero, base)
 
   ```
 
-## Ejercicio 8: Análisis de una cadena de caracteres
+## Ejercicio 8: Análisis de una cadena de caracteres <a name="id3"></a>
 
 El código que hemos empleado en el ejercicio 8 es el que mostramos a continuación:
 
@@ -81,7 +91,7 @@ for numero in range (b+1):
 print(posicion_elemento , " , " , a[numero])
 ```
 
-## Ejercicio 9: Búsqueda de palabras en un diccionario
+## Ejercicio 9: Búsqueda de palabras en un diccionario <a name="id4"></a>
 
 El código que hemos empleado en el ejercicio 9 es el que mostramos a continuación:
 
@@ -121,14 +131,14 @@ def nueva_eleccion():
 añadir_palabra()
 ```
 
-## Ejercicio 10: Representar los miembros de una familia
+## Ejercicio 10: Representar los miembros de una familia <a name="id5"></a>
 
 El código que hemos empleado en el ejercicio 10 es el que mostramos a continuación:
 
 
 
 
-## Ejercicio 11: mcd de dos números enteros
+## Ejercicio 11: mcd de dos números enteros <a name="id6"></a>
 
 El código que hemos empleado en el ejercicio 11 es el que mostramos a continuación:
 
@@ -163,7 +173,7 @@ else:
   ```
 
 
-## Ejercicio 12: Cuadrados perfectos y raíz cuadrada entera
+## Ejercicio 12: Cuadrados perfectos y raíz cuadrada entera <a name="id7"></a>
 
 El código que hemos empleado en el ejercicio 12 es el que mostramos a continuación:
 
