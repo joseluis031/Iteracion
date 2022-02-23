@@ -1,8 +1,8 @@
 # Iteracion
 Trabajo realizado por José Luis Rodríguez y Claudia Lozano.
-Dirección de Github: [](https://github.com/joseluis031/Iteracion.git)
+Dirección de Github: [GitHub](https://github.com/joseluis031/Iteracion.git)
 
-Ejercicio 6: Historial de una cuenta corriente
+## Ejercicio 6: Historial de una cuenta corriente
 
 Se quiere conservar el historial de los movimientos mensuales en una cuenta corriente.
 
