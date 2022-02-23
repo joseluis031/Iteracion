@@ -125,6 +125,13 @@ añadir_palabra()
 
 El código que hemos empleado en el ejercicio 10 es el que mostramos a continuación:
 
+
+
+
+## Ejercicio 11: mcd de dos números enteros
+
+El código que hemos empleado en el ejercicio 11 es el que mostramos a continuación:
+
 ```elegir = input("Elige: euclides o sumas y rectas ")
 x= int(input("Introduce el valor del divisor: "))
 y= int(input("Introduce el valor del divisor: "))
@@ -154,13 +161,6 @@ elif elegir == "sumas y rectas":
 else:
   print("No existe m.c.d")
   ```
-
-
-## Ejercicio 11: mcd de dos números enteros
-
-El código que hemos empleado en el ejercicio 11 es el que mostramos a continuación:
-
-
 
 
 ## Ejercicio 12: Cuadrados perfectos y raíz cuadrada entera
