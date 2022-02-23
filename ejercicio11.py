@@ -2,10 +2,10 @@
 
 x= input("Introduce el valor del divisor: ")
 y= input("Introduce el valor del divisor: ")
-mcd_euclides = x/y
-if mcd_euclides == 0:
+mcd = x/y
+if mcd == 0:
   print("El máximo común divisor es " , y , ".")
-if mcd_euclides != 0:
+if mcd != 0:
   resto= x%y
   mcd_euclidesnuevo = y / resto
       
