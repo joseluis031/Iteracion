@@ -1,7 +1,7 @@
 #importamos librerias
 import math
 
-a = input("Para obtener todos los cuadrados perfectos entre o y un número, introduce cuadrado, pero si dea realizar la raíz cuadrada de un número entero, introduce raiz: ")
+a = input("Para obtener todos los cuadrados perfectos entre o y un número, introduce cuadrado, pero si desea realizar la raíz cuadrada de un número entero, introduce raiz: ")
 
 if a == "cuadrado":
   def cuadrado1 (x,y):
