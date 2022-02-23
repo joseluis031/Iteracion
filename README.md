@@ -130,11 +130,6 @@ def nueva_eleccion():
 añadir_palabra()
 ```
 
-## Ejercicio 10: Representar los miembros de una familia <a name="id5"></a>
-
-El código que hemos empleado en el ejercicio 10 es el que mostramos a continuación:
-
-
 
 
 ## Ejercicio 11: mcd de dos números enteros <a name="id6"></a>
