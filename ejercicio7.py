@@ -1,4 +1,3 @@
-
 numero = int(input("Introduce un número: "))
 base = int(input("Introduce la base: "))
 
